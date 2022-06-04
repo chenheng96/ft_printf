@@ -1,4 +1,4 @@
-### ft_printf:
+### ft_printf
 A project that requires us to rewrite printf.
 
 ### Learning outcome:
